@@ -1,0 +1,32 @@
+.App-header {
+  background-color: #222;
+  height: 220px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+  text-align: center;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.filter{
+  background-color: whitesmoke;
+  text-align: center;
+  color: black;
+}
+
+p{
+cursor: pointer;
+}
+button{
+  margin: 4px;
+}
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
